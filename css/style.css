@@ -1562,3 +1562,10 @@ width: 160px;
     padding: 14px 16px;
     text-decoration: none;
 }
+ #horizontal-line{ 
+
+     display: block;
+     margin-bottom:20PX;
+     border-style: inset;
+     border-width: 0.5px;
+     border-color: #fafafa;
